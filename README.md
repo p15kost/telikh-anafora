@@ -1,5 +1,3 @@
-# telikh-anafora
- telikh anafora polimesa
  ## Παραδοτέο 4 - Tελική Αναφορά  <br />
 
 Τίτλος Εργασίας: Οπτικοποίηση δεδομένων χορηγιών (UK) <br />
