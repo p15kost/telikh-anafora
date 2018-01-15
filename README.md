@@ -7,7 +7,7 @@
 Σύνοψη: <br />
 
 Χαράλαμπος Κωστάντης, ΑΜ: <Π2015127> </br>
-repository link :https://github.com/p15kost/D3js-uk-political-donations  </br>
+repository link :https://github.com/p15kost/D3js-uk-political-donations  <br/ >
 github pages link : https://p15kost.github.io/D3js-uk-political-donations/   </br>
 σχετικό αποθετήριο github link: https://github.com/ioniodi/D3js-uk-political-donations </br>
 αρχικό παράδειγμα: https://ioniodi.github.io/D3js-uk-political-donations/full-viz.html </br>
