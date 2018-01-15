@@ -4,7 +4,7 @@
 
 Τίτλος Εργασίας: Οπτικοποίηση δεδομένων χορηγιών (UK) </br>
 
-Σύνοψη: </br>
+Σύνοψη: <br />
 
 Χαράλαμπος Κωστάντης, ΑΜ: <Π2015127> </br>
 repository link :https://github.com/p15kost/D3js-uk-political-donations  </br>
